@@ -5,7 +5,7 @@
 ### Author: Student/Group Name Lee-Roy King
 
 ### Links and Resources
-* [submission PR]()
+* [submission PR](https://github.com/leeroywking-401-advanced-javascript/lab18/pull/1)
 
 ### Modules
 
