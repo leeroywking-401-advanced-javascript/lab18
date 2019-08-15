@@ -5,13 +5,14 @@
 ### Author: Student/Group Name Lee-Roy King
 
 ### Links and Resources
-* [submission PR]()
+* [submission PR](https://github.com/leeroywking-401-advanced-javascript/lab18/pull/1)
 
 ### Modules
 
 fs 
 socket.io
-faker
+faker 
+
 
 ###### `foo(thing) -> string`
 Usage Notes or examples
