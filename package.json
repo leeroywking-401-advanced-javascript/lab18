@@ -1,0 +1,24 @@
+{
+  "name": "lab18",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/leeroywking-401-advanced-javascript/lab18.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/leeroywking-401-advanced-javascript/lab18/issues"
+  },
+  "homepage": "https://github.com/leeroywking-401-advanced-javascript/lab18#readme",
+  "dependencies": {
+    "faker": "^4.1.0",
+    "socket.io": "^2.2.0"
+  }
+}
