@@ -11,7 +11,8 @@
 
 fs 
 socket.io
-faker
+faker 
+
 
 ###### `foo(thing) -> string`
 Usage Notes or examples
