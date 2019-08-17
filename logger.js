@@ -17,3 +17,5 @@ socket.on('file-error', (payload) => {
     console.log(payload);
     writer('./files/test.txt',payload)
 });
+
+// this is nonsense
