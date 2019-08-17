@@ -1,5 +1,5 @@
 const io = require('socket.io-client');
-const socket = io.connect('https://lab19.azurewebsites.net:3000');
+const socket = io.connect('https://lab19.azurewebsites.net');
 
 const faker = require('faker');
 
