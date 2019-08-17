@@ -2,10 +2,10 @@
   "name": "lab18",
   "version": "1.0.0",
   "description": "",
-  "main": "nonsense.js",
+  "main": "logger.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node nonsense.js"
+    "start": "node logger.js"
   },
   "repository": {
     "type": "git",
